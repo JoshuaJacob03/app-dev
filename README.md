@@ -6,3 +6,5 @@ My first repository
 1. Avengers: Endgame
 2. Interstellar
 3. 3 Idiots
+
+## When you typed in your favorite movies it automatically rates it 
